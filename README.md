@@ -1,10 +1,10 @@
 # Niraj Jagtap Website
 
-Static portfolio website for Adv. Niraj Jagtap, Litigation & Dispute Resolution Counsel.
+Static, white-background portfolio website for Adv. Niraj Jagtap, Litigation & Dispute Resolution Counsel, with persistent call and WhatsApp conversion paths.
 
 ## Pages
 
-- `index.html` — Home, about, practice areas, professional network, contact form, and persistent call/WhatsApp actions.
+- `index.html` — Home, about, practice areas, consultation approach, professional network, contact form, and persistent call/WhatsApp actions.
 - `blog.html` — Blog and practical legal insight previews.
 
 ## Local preview
